@@ -1,6 +1,12 @@
-# diablo
+# Diablo3
+\_ Project use API's de BLIZZAED
 
 ## Project setup
+
+```
+git clone https://github.com/R-Livise/SPA-Cientifico.git
+```
+
 ```
 yarn install
 ```
@@ -29,6 +35,18 @@ yarn test:e2e
 ```
 yarn lint
 ```
+### Authors ✒️
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- **Rafael Livise** - __Main worker__ - [R-Livise](https://github.com/R-Livise)
+
+### License 📄
+
+(MIT).
+
+### Expressions of Gratitude 🎁
+
+- This project is part of the Platzi advanced Vue course
+
+---
+
+⌨️ with ❤️ by [R-Livise](https://github.com/R-Livise) 😊
