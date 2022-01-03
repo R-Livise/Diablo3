@@ -15,9 +15,6 @@ export default {
       // into the client bundle with webpack.DefinePlugin.
       title: process.env.VUE_APP_TITLE || 'D3PF'
     }
-  },
-  created () {
-    console.log(process.env)
   }
 }
 </script>
